@@ -1,4 +1,4 @@
-Codes used for analyzing RNA-seq and Ribo-Seq data in the forthcoming manuscript, "Imported, not Invented, Genes Prevail among E. coli ORFans", uz-Zaman and Ochman.
+Codes used for analyzing genomic data in the forthcoming manuscript, "Imported, not Invented, Genes Prevail among E. coli ORFans", uz-Zaman and Ochman.
 
 Order in which the scripts are to be executed:
 
